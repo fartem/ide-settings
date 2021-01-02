@@ -1,0 +1,33 @@
+source $VIMRUNTIME/vimrc_example.vim
+
+set noundofile
+set belloff=all
+
+filetype off
+set shellslash
+set rtp+=[DIR_VUNDLE]
+call vundle#begin()
+
+Plugin 'VundleVim/Vundle.vim'
+Plugin 'wakatime/vim-wakatime'
+Plugin 'preservim/nerdtree'
+Plugin 'neoclide/coc.nvim'
+Plugin 'jistr/vim-nerdtree-tabs'
+Plugin 'vim-ruby/vim-ruby'
+Plugin 'dart-lang/dart-vim-plugin'
+Plugin 'thosakwe/vim-flutter'
+Plugin 'natebosch/vim-lsc'
+Plugin 'natebosch/vim-lsc-dart'
+Plugin 'morhetz/gruvbox'
+
+call vundle#end()
+filetype plugin indent on
+
+set columns=100
+set lines=30
+set guifont=JetBrains_Mono:h12
+
+set background=dark
+autocmd vimenter * colorscheme gruvbox
+
+set backupdir=[DIR_BACKUP]
