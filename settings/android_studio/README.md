@@ -2,7 +2,6 @@
 
 * [ADB Idea](https://plugins.jetbrains.com/plugin/7380-adb-idea)
 * [Android Drawable Preview](https://plugins.jetbrains.com/plugin/10730-android-drawable-preview)
-* [BashSupport](https://plugins.jetbrains.com/plugin/4230-bashsupport)
 * [CheckStyle-IDEA](https://plugins.jetbrains.com/plugin/1065-checkstyle-idea)
 * [Dart](https://plugins.jetbrains.com/plugin/6352-dart)
 * [Extra Icons](https://plugins.jetbrains.com/plugin/11058-extra-icons)
