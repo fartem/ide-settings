@@ -5,7 +5,7 @@ set belloff=all
 
 filetype off
 set shellslash
-set rtp+=/Users/artemfomchenkov/.vim/bundle/Vundle.vim
+set rtp+=[DIR_VUNDLE]
 call vundle#begin()
 
 Plugin 'VundleVim/Vundle.vim'
@@ -21,6 +21,12 @@ Plugin 'natebosch/vim-lsc-dart'
 Plugin 'Xuyuanp/nerdtree-git-plugin'
 Plugin 'ryanoasis/vim-devicons'
 Plugin 'arcticicestudio/nord-vim'
+Plugin 'itchyny/lightline.vim'
+Plugin 'airblade/vim-gitgutter'
+
+let g:lightline = {
+      \ 'colorscheme': 'nord',
+      \ }
 
 call vundle#end()
 filetype plugin indent on
@@ -32,4 +38,4 @@ set lines=30
 set background=dark
 colorscheme nord
 
-set backupdir=/Users/artemfomchenkov/.vim/backups
+set backupdir=[DIR_BACKUP]
