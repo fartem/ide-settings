@@ -14,3 +14,4 @@
 * [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
 * [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation)
 * [WakaTime](https://plugins.jetbrains.com/plugin/7425-wakatime)
+* [XWin Keymap](https://plugins.jetbrains.com/plugin/13094-xwin-keymap)
