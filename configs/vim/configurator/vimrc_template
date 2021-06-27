@@ -35,7 +35,11 @@ set guifont=JetBrainsMono_Nerd_Font:h14
 set columns=100
 set lines=30
 
+autocmd Filetype dart setlocal tabstop=2 shiftwidth=2
+
 set background=dark
 colorscheme nord
 
 set backupdir=[DIR_BACKUP]
+
+nmap <F5> :NERDTreeToggle<CR>
