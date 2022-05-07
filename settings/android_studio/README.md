@@ -1,15 +1,11 @@
 ## Plugins
 
 * [ADB Idea](https://plugins.jetbrains.com/plugin/7380-adb-idea)
-* [Android Drawable Preview](https://plugins.jetbrains.com/plugin/10730-android-drawable-preview)
 * [CheckStyle-IDEA](https://plugins.jetbrains.com/plugin/1065-checkstyle-idea)
 * [Dart](https://plugins.jetbrains.com/plugin/6352-dart)
-* [Extra Icons](https://plugins.jetbrains.com/plugin/11058-extra-icons)
 * [Flutter](https://plugins.jetbrains.com/plugin/9212-flutter)
-* [Gradianto](https://plugins.jetbrains.com/plugin/12334-gradianto)
 * [IdeaVim](https://plugins.jetbrains.com/plugin/164-ideavim)
 * [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
-* [Markdown](https://plugins.jetbrains.com/plugin/7793-markdown)
 * [Nyan Progress Bar](https://plugins.jetbrains.com/plugin/8575-nyan-progress-bar)
 * [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
 * [String Manipulation](https://plugins.jetbrains.com/plugin/2162-string-manipulation)
