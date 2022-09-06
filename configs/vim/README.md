@@ -11,8 +11,8 @@
 * [vim-flutter](https://github.com/thosakwe/vim-flutter)
 * [Vim Language Server Client](https://github.com/natebosch/vim-lsc)
 * [vim-lsc server](https://github.com/natebosch/vim-lsc-dart)
-* [nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin
-* [vim-devicons](https://github.com/ryanoasis/vim-devicons
+* [nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin)
+* [vim-devicons](https://github.com/ryanoasis/vim-devicons)
 * [nord-vim](https://github.com/arcticicestudio/nord-vim)
 * [lightline.vim](https://github.com/itchyny/lightline.vim)
 * [vim-gitgutter](https://github.com/airblade/vim-gitgutter)
