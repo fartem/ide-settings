@@ -1,0 +1,12 @@
+AllCops:
+  DisplayCopNames: true
+  EnabledByDefault: true
+  TargetRubyVersion: 3.2.2
+  Exclude:
+    - 'test/**/test_*.rb'
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Style/Copyright:
+  Enabled: false
