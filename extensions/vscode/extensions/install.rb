@@ -1,8 +1,7 @@
 #!/usr/bin/ruby
 
-File.open('./extensions.txt', 'r') do |f|
-  f.each_line do |plugin|
+File.open('./extensions.txt', 'r') do |file|
+  file.each_line do |plugin|
     `code --install-extension #{plugin.strip!}`
   end
 end
-
